@@ -10,4 +10,4 @@ Running on Qwen2.5 via Ollama on a local GPU.
 - Qwen2.5 7B / 14B
 
 ## Status
-🟢 V1 — In Progress
+🟢 V1 — COMPLETE
